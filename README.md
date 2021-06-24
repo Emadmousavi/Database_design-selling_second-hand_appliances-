@@ -1,7 +1,8 @@
 # Database_design_selling-_second-hand_appliances
 This is a database design and implementation for selling  second-hand appliances like "Divar app"
 
-There are 5 Steps to design and implement this database (it is working in #SQL Server)
+#SQL Server
+There are 5 Steps to design and implement this database 
 
 - Phase 1
   introducing the entities and necessary attributes for them
